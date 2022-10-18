@@ -1,0 +1,21 @@
+---
+title: "TP_transcriptom"
+author: "Braham Elyes"
+date: "18/10/2022"
+output: pdf_document
+---
+
+
+https://ngstc.iutms.umontpellier.fr/formations/mbioinfo/HAU901I/tp-dge/
+
+Contrôle qualité (fait par la plateforme)
+
+git !!!
+
+GEO DataSets
+Search database
+
+
+```{r}
+
+```
